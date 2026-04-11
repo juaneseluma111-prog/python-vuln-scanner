@@ -1,0 +1,12 @@
+{
+  "target": "127.0.0.1",
+  "results": [
+    {
+      "port": 445,
+      "service": "microsoft-ds",
+      "version": "",
+      "risk": "HIGH",
+      "desc": "SMB - ransomware vector"
+    }
+  ]
+}

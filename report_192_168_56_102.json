@@ -1,0 +1,19 @@
+{
+  "target": "192.168.56.102",
+  "results": [
+    {
+      "port": 445,
+      "service": "microsoft-ds",
+      "version": "",
+      "risk": "HIGH",
+      "desc": "SMB - ransomware vector"
+    },
+    {
+      "port": 3389,
+      "service": "ms-wbt-server",
+      "version": "",
+      "risk": "HIGH",
+      "desc": "RDP - brute force target"
+    }
+  ]
+}
