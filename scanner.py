@@ -17,7 +17,6 @@ HIGH_RISK = {
 MED_RISK = {
     80: "HTTP - unencrypted",
     8080: "HTTP Alt",
-    8443: "HTTPS Alt"
 }
 
 def scan(target):
